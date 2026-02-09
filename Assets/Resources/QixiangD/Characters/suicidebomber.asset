@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4679cc75b2c8be74e8b047318fa062ea, type: 3}
+  m_Name: suicidebomber
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterOption
+  Name: Suicide
+  Author: 55
+  Team: 3
+  Body: {fileID: 629948465317790645, guid: acf0e760b28c7b046ad7d511fb87a1d3, type: 3}
+  Art: {fileID: 2649847697073447219, guid: 10f97ce30d99ca74ca1e5c82c0be0577, type: 3}
+  Color: {r: 0.9528302, g: 0.058806226, b: 0.03146139, a: 1}
+  Size: 1
+  Tags: []
+  LevelRange: {x: 0, y: 0}
+  Trait: []
+  HP: 1
+  Speed: 6
+  Held: {fileID: 0}
+  DefaultAction: 202
+  DefaultChaseAction: 202
